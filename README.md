@@ -34,8 +34,6 @@ Dataset (Excel - log\_dataset)
 → Evaluation (Accuracy, Precision, Recall, F1)  
 → Save Model (model.pkl)
 
-\---
-
 ### Inference Pipeline
 
 New Log Input  
@@ -46,8 +44,6 @@ New Log Input
 → Top-2 Predictions  
 → Structured Summary Generation  
 → Final Output
-
-\---
 
 ## Model Approach
 
