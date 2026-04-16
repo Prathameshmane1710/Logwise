@@ -6,8 +6,6 @@ This project implements a lightweight AI pipeline to automatically classify syst
 
 The goal is to assist operations teams in quickly identifying and responding to system issues, reducing manual effort and improving response time.
 
-\---
-
 ## System Design
 
 ### High-Level Architecture
