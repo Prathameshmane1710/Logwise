@@ -60,8 +60,6 @@ I used a **TF-IDF (Term Frequency-Inverse Document Frequency)** vectorization ap
 
 This combination provides a strong balance between performance, simplicity, and efficiency.
 
-\---
-
 ## Data Preprocessing
 
 The dataset was provided as an Excel file with multiple sheets:
